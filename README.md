@@ -3,4 +3,4 @@ This is a project for implementing the framework proposed by the paper "Approach
 
 - PCDK.py: The main code that implements the classic PC algorithm for causal graph inference with domain knowledge, which is based on the gCastle project of HUAWEI
 - tutorial_tam.ipynb: the jupyter notebook that introduce the tutorial of how to use the code
-- tutorial_simulation: the code of simulation experiments in the paper
+- tutorial_simulation: the code of the simulation experiments in the paper
